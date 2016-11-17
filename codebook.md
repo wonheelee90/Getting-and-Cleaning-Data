@@ -30,13 +30,13 @@ Variables included
 
     read.table("activity_labels.txt")
 
-    ##   V1                 V2
-    ## 1  1            WALKING
-    ## 2  2   WALKING_UPSTAIRS
-    ## 3  3 WALKING_DOWNSTAIRS
-    ## 4  4            SITTING
-    ## 5  5           STANDING
-    ## 6  6             LAYING
+    ##   Value         Definition
+    ## 1     1            WALKING
+    ## 2     2   WALKING_UPSTAIRS
+    ## 3     3 WALKING_DOWNSTAIRS
+    ## 4     4            SITTING
+    ## 5     5           STANDING
+    ## 6     6             LAYING
 
 ### Feature variables explained
 
